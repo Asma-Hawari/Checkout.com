@@ -58,7 +58,6 @@ class OrderSerializer(serializers.ModelSerializer):
             "cko_token",
             "checkoutPaymentId",
             "status",
-            "created_at",
             "items"
 
         )

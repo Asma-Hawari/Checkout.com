@@ -29,7 +29,7 @@ ALLOWED_HOSTS = []
 
 STRIPE_SECRET_KEY = "sk_test_MMNDWMvpQe1ES6MzEzMDGu5a00gaF0XBFa"
 
-CKO_SECRET_KEY = "sk_sbox_2rwi72whqwnh7egdb4j6cqtvi46"
+CKO_SECRET_KEY = "sk_sbox_k3lugly5haej4wrjcltsn6kigi6"
 
 CKO_CHANNEL_ID = "pc_j4ujttzihh7evapkjffpicuubq"
 
